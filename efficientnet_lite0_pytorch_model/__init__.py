@@ -1,3 +1,6 @@
+# Version of the efficientnet_lite0_pytorch_model package
+__version__ = "0.1.0"
+
 import os, inspect
 
 class EfficientnetLite0ModelFile(object):
