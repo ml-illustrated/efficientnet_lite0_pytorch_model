@@ -2,6 +2,13 @@
 
 Pretrained Pytorch model file for EfficientNet Lite0
 
+## Installation
+
+```
+pip install efficientnet_lite0_pytorch_model
+```
+
+
 ## Basic Usage
 
 ```
@@ -11,7 +18,7 @@ print( 'model file path is %s' % ( EfficientnetLite0ModelFile.get_model_file_pat
 
 ## Credits
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+This package was created with _Cookiecutter_ and the `audreyr/cookiecutter-pypackage` project template.
 
 - _Cookiecutter: https://github.com/audreyr/cookiecutter
 - _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage

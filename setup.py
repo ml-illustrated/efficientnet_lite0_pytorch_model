@@ -25,6 +25,7 @@ setup(
     author_email="gerald@ml-illustrated.com",
     description="Pretrained Pytorch model file for EfficientNet Lite0",
     long_description=read("README.md"),
+    long_description_content_type='text/markdown',
     packages=find_packages(exclude=("tests",)),
     install_requires=requirements,
     include_package_data=True,
